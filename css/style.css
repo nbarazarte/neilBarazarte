@@ -4871,8 +4871,7 @@ a.btgs {
   align-items: center;
 }
 .portrait-img img {
-  /* max-height: 600px; */
-
+  max-height: 600px;
   position: absolute;
   bottom: 0;
   right: 100px;
