@@ -895,7 +895,7 @@ img {
 }
 .brandlogo img {
   max-height: 50px;
-  width: 60%;
+  /* width: 50%; */
 }
 .brandlogo .light {
   display: none;
